@@ -1,0 +1,31 @@
+.card{
+    position:relative;
+    background-color: grey;
+    width: 400px;
+    border-radius: 5px;
+    height:180px;
+    margin-top: 100px;
+}
+.card_container{
+    display: flex;
+    justify-content: center;
+    margin-left: 10px;
+}
+.header{
+    text-align: center;
+    color:blue;
+}
+.slide{
+    position:absolute;
+}
+
+.applied_job_details{
+    border:1px solid gray;
+    background-color:honeydew;
+    display:flex;
+    justify-content: space-between;
+}
+.applied{
+    margin-top: 400px;
+    margin-left: 800px;
+}

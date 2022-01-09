@@ -1,0 +1,30 @@
+[
+   {  
+      "id":1,
+      "name":"IVY Comptech",
+      "job":"software developer",
+      "experirence":"0-1",
+      "location":"Hyderabad"
+  },
+  {  
+    "id":2,
+    "name":"GOOGLE",
+    "job":"Fullstack developer",
+    "experirence":"0-1",
+    "location":"Hyderabad"
+    },
+  {  
+    "id":3,
+    "name":"Flipkart",
+    "job":"Front-End developer",
+    "experirence":"0-1",
+    "location":"Hyderabad"
+},
+{  
+    "id":4,
+    "name":"Amazon",
+    "job":"Back-End developer",
+    "experirence":"0-1",
+    "location":"Hyderabad"
+}
+]
